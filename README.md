@@ -1,6 +1,6 @@
 # Real_time_weather_plot
 Project hiển thị biểu đồ nhiệt độ, độ ẩm theo thời gian thực, được đọc thông qua cảm biến DHT11.
-## Thành phần cứng:
+## Thành phần phần cứng:
 - ESP32
 - DHT11
 - UART
